@@ -1,3 +1,4 @@
 # Ignore the following files
 **.pro
 **.smet
+**.ipynb_checkpoints/
