@@ -1,3 +1,5 @@
 # Ignore the following files
 **.pro
 **.ipynb_checkpoints/
+**.nc
+**.DS_Store
